@@ -54,4 +54,14 @@
       "APP_TOKEN": ""
     }
     ]
+    // HelloWorld面板配置，必须要有，不同面板配置用,隔开
+    "HwConfig": [
+        {
+          "HwKey": 1,
+          "HwName": "阿里云",
+          "HwUrl": "",
+          "HwApiToken": "",
+          "Hw_CAPACITY": 50
+        }
+  ]
 }
