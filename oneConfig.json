@@ -53,9 +53,9 @@
       // WXPUSHER的应用token，不推送留空
       "APP_TOKEN": ""
     }
-    ]
-    // HelloWorld面板配置，必须要有，不同面板配置用,隔开
-    "HwConfig": [
+    ],
+  // HelloWorld面板配置，必须要有，不同面板配置用,隔开
+  "HwConfig": [
         {
           "HwKey": 1,
           "HwName": "阿里云",
